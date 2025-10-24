@@ -27,8 +27,12 @@ Créer une classe `CompteBancaire` permettant de modéliser un compte avec un ti
 - `void afficher()` — affiche le titulaire et le solde
 
 ###  Résultat visuel
+
 <div align="center"> <img src="image/Exercice1.jpg" alt="Résultat Exercice 1" width="1000"/> <p><em>Figure 1 </em></p> </div>
+
+
 ##  Exercice 2 : Gestion d’un Catalogue de Livres
+
 ### Objectif
 
 Créer une classe Livre représentant un ouvrage d’une bibliothèque.
